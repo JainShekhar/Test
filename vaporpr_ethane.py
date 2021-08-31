@@ -1,14 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 30 20:39:33 2021
-
-@author: shejain
+@author: shekharjain
 """
 
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-from contourplots import plot_decision_regions
 from sklearn.metrics import accuracy_score
 
 #temperature from 250 to 500 K as 50 points
