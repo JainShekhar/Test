@@ -53,6 +53,6 @@ print('Misclassifications in training set is %d out of %d' %(miscls,len(y_train)
 y_pred = ppn.predict(X_test)
 miscls = np.sum(y_pred != y_test)
 print('Misclassifications in test set is %d out of %d' %(miscls,len(y_test)))
-
+print('some changes')
 
 
