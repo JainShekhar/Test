@@ -18,7 +18,7 @@ import pandas
 
 To insert weblinks use square brackets. For example [google][www.google.com]
 
-To insert image use !, then wrap the caption in square brackets and provide link using curly brackets. For example ![analysis plot](test/kdeplot.png)
+To insert image use !, then wrap the caption in square brackets and provide link using curly brackets. For example ![analysis plot](kdeplot.png)
 
 For list use -.
 - This is item 1
